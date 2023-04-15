@@ -1,0 +1,19 @@
+<RCC>
+    <qresource prefix="/">
+        <file>res/POLOSKA.png</file>
+        <file>res/Volume_noActive.png</file>
+        <file>res/Volume_Active.png</file>
+        <file>res/Stop_noActive.png</file>
+        <file>res/Stop_Active.png</file>
+        <file>res/Return_noActive.png</file>
+        <file>res/Return_Active.png</file>
+        <file>res/Play_noAktive.png</file>
+        <file>res/playlist.png</file>
+        <file>res/Play_Aktive.png</file>
+        <file>res/Pause_noActive.png</file>
+        <file>res/Pause_Active.png</file>
+        <file>res/Next_noActive.png</file>
+        <file>res/Next_Active.png</file>
+        <file>res/down1.png</file>
+    </qresource>
+</RCC>
